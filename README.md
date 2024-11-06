@@ -45,6 +45,11 @@ bleak  in python
 https://github.com/edgeimpulse/example-data-collection-colmi-r02/blob/main/ring.py
 
 
+mqtt
+
+https://github.com/DM-Kang/KUoslab_Smartwatch
+
+
 
 https://github.com/wanghaisheng/ExpoScale/blob/main/mobile/src/components/loading.tsx
 

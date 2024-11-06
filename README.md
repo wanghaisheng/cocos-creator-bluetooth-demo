@@ -22,6 +22,8 @@ Display HR when playing games
     "react-native-ble-plx": "^3.2.0",
 
 
+https://www.nxrte.com/jishu/yinshipin/10799.html
+蓝牙耳机这些应该也是蓝牙协议 怎么链接的
 
 https://github.com/zhanguangao/react-native-ble-plx-demo
 

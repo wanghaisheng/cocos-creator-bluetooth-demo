@@ -23,6 +23,8 @@ Display HR when playing games
 
 
 
+https://github.com/zhanguangao/react-native-ble-plx-demo
+
 
 https://github.com/edgeimpulse/example-data-collection-colmi-r02/blob/main/ring.py
 

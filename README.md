@@ -25,6 +25,8 @@ Display HR when playing games
 https://www.nxrte.com/jishu/yinshipin/10799.html
 蓝牙耳机这些应该也是蓝牙协议 怎么链接的
 
+https://github.com/zegoim/zego_express_cocos_creator_sdk
+
 
 
 

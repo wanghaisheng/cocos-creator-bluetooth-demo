@@ -36,3 +36,12 @@ https://github.com/wanghaisheng/ExpoScale/blob/main/mobile/src/components/loadin
 https://github.com/DaveAldon/Expo-BLE-Boilerplate
 
 https://github.com/nordinvandijk/expo-ble
+
+
+https://github.com/wanghaisheng/Health_Tracker
+
+https://github.com/wanghaisheng/ExpoScale
+
+https://github.com/antoniovini47/bluetooth-low-energy-react-native
+
+https://github.com/arnavbhattt/BLE-Integrated-WebApp

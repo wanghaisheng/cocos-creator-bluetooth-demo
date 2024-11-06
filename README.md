@@ -29,6 +29,9 @@ https://github.com/zegoim/zego_express_cocos_creator_sdk
 
 
 
+https://github.com/ddteeter/peloton-sensors-hud/blob/master/src/service/renderer/BluetoothReadingTranslation.ts
+
+
 
 react-native-ble-plx in ts？
 

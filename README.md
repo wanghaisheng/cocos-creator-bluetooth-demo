@@ -25,10 +25,20 @@ Display HR when playing games
 https://www.nxrte.com/jishu/yinshipin/10799.html
 蓝牙耳机这些应该也是蓝牙协议 怎么链接的
 
+
+
+
+react-native-ble-plx in ts？
+
 https://github.com/zhanguangao/react-native-ble-plx-demo
 
 
+
+bleak  in python
+
+
 https://github.com/edgeimpulse/example-data-collection-colmi-r02/blob/main/ring.py
+
 
 
 https://github.com/wanghaisheng/ExpoScale/blob/main/mobile/src/components/loading.tsx
